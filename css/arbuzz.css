@@ -1,0 +1,168 @@
+/*! arbuzz.css © yamoo9.net, 2016 */
+.hbox {
+	height: 170px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 100px;
+}
+
+
+
+
+.mbbox {
+	width: 1200px;
+	height: 580px;
+	text-align: center;
+	line-height: 480px;
+	background-image: url("../images/header/woman.jpg");
+	margin-bottom: 20px;
+
+}
+
+
+.tbox {
+	height: 40px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 50px;	
+	margin-bottom: 20px;
+}
+
+
+
+
+.box {
+	height: 300px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 100px;
+	background-image: url("../images/banner/shoes.jpg");
+	margin-bottom: 20px;	
+}
+
+.box:nth-child(2) { 	
+	height: 300px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 100px;
+	background-image: url("../images/banner/leather-bags.jpg");
+	margin-bottom: 20px;	
+}
+
+.box:nth-child(3) { 	
+	height: 300px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 100px;
+	background-image: url("../images/banner/collection.jpg");
+	margin-bottom: 20px;	
+}
+
+.box.prefix-8 { 	
+	height: 620px;
+	width: 300px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 100px;
+	background-image: url("../images/banner/woman.jpg");
+	margin-bottom: 20px;	
+}
+
+.tibox {
+	height: 410px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 50px;	
+	margin-bottom: 20px;	
+	background-repeat: no-repeat;
+}
+
+.product-headline {
+	margin: 0;
+	color: #333;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: -0.02em;
+    line-height: 1.5;
+}
+
+.productmuch {
+	margin: 0;
+	color: #93444c;
+    text-transform: uppercase;
+    font-size: 14px;
+
+    letter-spacing: -0.02em;
+    line-height: 2.5;
+}
+
+.new {
+	width: 43px;
+	height: 43px;
+	border-color: #72b452;
+}
+
+.tibox:nth-child(2) {
+	height: 410px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 50px;	
+	margin-bottom: 20px;	
+	background-image: url("../images/products/fitted-dress.jpg");
+	background-repeat: no-repeat;
+}
+
+.tibox:nth-child(3) {
+	height: 410px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 50px;	
+	margin-bottom: 20px;	
+	background-image: url("../images/products/fluted-hem-dress.jpg");
+	background-repeat: no-repeat;
+}
+
+.tibox:nth-child(4) {
+	height: 410px;
+	background: #fafafa;
+	text-align: center;
+	line-height: 50px;	
+	margin-bottom: 20px;	
+	background-image: url("../images/products/textured-pleats-dress.jpg");
+	background-repeat: no-repeat;
+}
+
+
+
+.box.about  {
+	padding: 0;
+	margin: 0;
+	height: 370px;
+	background: #fafafa;
+	text-align: center;
+}
+
+.box.about h1 {
+	margin: 0;
+	line-height: 4;
+}
+
+
+.de {
+	margin-top: 0;
+	margin-left: 60px;
+	margin-right: 60px;
+	color: #93444c;
+    text-transform: uppercase;
+    font-size: 14px;
+
+    letter-spacing: -0.02em;
+    line-height: 2;
+}
+
+
+
+.but.bx {
+	margin: 0;
+
+}
